@@ -1,0 +1,31 @@
+
+header{
+    background-color: coral ;
+    height: 120x;
+  
+ }
+
+ 
+ .logoImage{
+   height: 118px;
+}
+ 
+ 
+ nav{
+    background-color: burlywood;
+    height: 75x;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom:14px;
+  }
+  
+ main{
+    background-color: yellowgreen;
+    height: 400x;
+  }
+  
+ footer{
+    background-color: dodgerblue;
+    height: 75x;
+  
+ }
